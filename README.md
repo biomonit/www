@@ -1,6 +1,6 @@
 # [Biomonit Smartwatch](http://www.biomonit.com)
 
-![smartwatch](smartwatch.svg)
+
 
 ## Core Features
 - Advanced multi-sensor platform for comprehensive health and environmental monitoring
@@ -72,3 +72,30 @@
 
 *Requires additional sensor patch
 **Experimental feature, not for medical diagnosis
+
+
+## Prototype
+
+1. Watch body: A rounded rectangle represents the main body of the smartwatch.
+2. LCD Screen: A blue rectangle in the center represents the LCD display.
+3. Strap: Two curved paths represent the watch strap.
+4. Sensors: Colored circles at the top of the watch face represent different sensors:
+   - Red: Heart Rate (HR) sensor
+   - Green: SpO2 sensor
+   - Blue: Temperature sensor
+   - Yellow: CO2 sensor
+   - Magenta: Radiation sensor (Geiger counter)
+5. Button: A gray rectangle on the right side represents a physical button.
+6. Microphone: A small black circle at the bottom represents the microphone.
+
+This is a simplified representation and doesn't show all the internal components like the processor, battery, or eSIM. The actual arrangement of sensors and components would depend on various factors including size constraints, heat management, and optimal positioning for accurate readings.
+
+![smartwatch](smartwatch.svg)
+
+
+
+1. The sensors are shown on the face of the watch for clarity, but in a real device, many of these might be on the back, in contact with the skin.
+2. The CO2 and radiation sensors would likely need exposure to the environment, so their placement would need careful consideration in a real design.
+3. The microphone is shown at the bottom, but its actual placement would depend on acoustics and design considerations.
+4. Additional sensors like the pressure sensor, accelerometer, and magnetometer are not explicitly shown, as they would typically be internal components.
+
