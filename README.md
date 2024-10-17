@@ -74,7 +74,7 @@
 **Experimental feature, not for medical diagnosis
 
 
-## Prototype
+## Prototype v1
 
 1. Watch body: A rounded rectangle represents the main body of the smartwatch.
 2. LCD Screen: A blue rectangle in the center represents the LCD display.
@@ -98,4 +98,40 @@ This is a simplified representation and doesn't show all the internal components
 2. The CO2 and radiation sensors would likely need exposure to the environment, so their placement would need careful consideration in a real design.
 3. The microphone is shown at the bottom, but its actual placement would depend on acoustics and design considerations.
 4. Additional sensors like the pressure sensor, accelerometer, and magnetometer are not explicitly shown, as they would typically be internal components.
+
+
+## Prototype v2
+
+
+The updated design of the Biomonit smartwatch:
+
+1. Wider dial: The dial around the watch is now significantly wider, taking up more of the watch face. This is represented by a thicker circular stroke (60 units wide instead of 30).
+
+2. Larger buttons and sensors: To take advantage of the wider dial, the buttons and sensors are now larger (40 pixels in diameter instead of 24), making them more prominent and potentially easier to interact with.
+
+3. Adjusted layout: The positions of the sensors and buttons have been slightly adjusted to fit within the wider dial while maintaining a balanced layout.
+
+4. Smaller main display: As a consequence of the wider dial, the main circular LCD display is slightly smaller, focusing more on the interactive elements around the edge.
+
+5. Improved legibility: The larger sensors and buttons allow for slightly larger text, improving readability.
+
+
+![roundwatch](roundwatch.svg)
+
+
+The elements of the watch remain the same as in the previous design:
+
+- Heart Rate (HR) sensor at the top
+- SpO2 sensor at the top right
+- Temperature sensor on the right
+- CO2 sensor at the bottom right
+- Radiation sensor (Geiger counter) at the bottom
+- Three buttons (Btn1, Btn2, Btn3) distributed on the left side of the dial
+
+The small central LCD still displays the time (12:34) and a simple message ("Hello, User!").
+
+This design emphasizes the multi-functional aspect of the watch, giving more space and prominence to the various sensors and interactive elements. The wider dial could allow for more precise touch interactions or potentially incorporate additional sensors or controls in future iterations.
+
+
+
 
