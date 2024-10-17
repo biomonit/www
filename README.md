@@ -1,4 +1,4 @@
-# [Biomonit Smartwatch(http://www.biomonit.com)
+# [Biomonit Smartwatch](http://www.biomonit.com)
 
 ![smartwatch](smartwatch.svg)
 
@@ -37,6 +37,9 @@
 - Menstrual cycle tracking
 - Environmental safety alerts (CO2 levels, radiation exposure)
 
+
+![obraz](https://github.com/user-attachments/assets/9b0f119b-df97-46f5-8314-f65cf4d091a3)
+
 ## Smart Features
 - Notifications for calls, messages, and apps
 - Voice assistant integration
@@ -49,6 +52,9 @@
 - HIPAA compliance for data storage and transmission
 - Integration with electronic health records (EHR) systems
 - Ability to share data with healthcare providers and safety officials
+
+
+![obraz](https://github.com/user-attachments/assets/4501cd67-f819-47a8-b3fa-b54691af172b)
 
 ## Hardware Specifications
 - High-resolution touch screen display
