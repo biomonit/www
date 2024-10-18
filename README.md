@@ -3,9 +3,6 @@
 Biomonit Smartwatc based on H-Watch multi-sensor wearable platform which is built of the key components, listed below:
 [biomonit/H-Watch: Smart Watch for Healthcare](https://github.com/biomonit/H-Watch)
 
-### Components
-The H-Watch is a highly integrated multi-sensor wearable platform which is built of the key components, listed below: 
-
 -   [MAX30101EFD+](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101.html), High-Sensitivity Pulse Oximeter and Heart-Rate Sensor for Wearable Health
 -   [LSM303AGR](https://www.st.com/en/mems-and-sensors/lsm303agr.html), Ultra-compact high-performance eCompass module
 -   [LPS22HB](https://www.st.com/en/mems-and-sensors/lps22hb.html), MEMS nano pressure sensor
