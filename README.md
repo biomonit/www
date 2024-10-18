@@ -91,19 +91,17 @@ The H-Watch is a highly integrated multi-sensor wearable platform which is built
 
 ## Prototype v1
 
-1. Watch body: A rounded rectangle represents the main body of the smartwatch.
-2. LCD Screen: A blue rectangle in the center represents the LCD display.
-3. Strap: Two curved paths represent the watch strap.
-4. Sensors: Colored circles at the top of the watch face represent different sensors:
+1. Watch body
+2. LCD Screen
+3. Strap
+4. Sensors: 
    - Red: Heart Rate (HR) sensor
    - Green: SpO2 sensor
    - Blue: Temperature sensor
    - Yellow: CO2 sensor
    - Magenta: Radiation sensor (Geiger counter)
-5. Button: A gray rectangle on the right side represents a physical button.
-6. Microphone: A small black circle at the bottom represents the microphone.
-
-This is a simplified representation and doesn't show all the internal components like the processor, battery, or eSIM. 
+5. Buttons
+6. Microphone
 
 
 ![smartwatch](smartwatch.svg)
