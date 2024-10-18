@@ -43,6 +43,11 @@ Biomonit Smartwatc based on H-Watch multi-sensor wearable platform which is buil
 - Wi-Fi and Bluetooth 5.2 (via STM32WB55RG) for local connectivity
 - GPS for location tracking and outdoor activity mapping
 
+
+
+![obraz](https://github.com/user-attachments/assets/38ae9736-c862-4ae9-bda2-2dfe6fa0f935)
+
+
 ## Health and Fitness Features
 - Real-time health data analysis and alerts
 - Customizable health goals and tracking
