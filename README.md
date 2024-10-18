@@ -1,5 +1,20 @@
 # [Biomonit Smartwatch](http://www.biomonit.com)
 
+Biomonit Smartwatc based on H-Watch multi-sensor wearable platform which is built of the key components, listed below:
+[biomonit/H-Watch: Smart Watch for Healthcare](https://github.com/biomonit/H-Watch)
+
+### Components
+The H-Watch is a highly integrated multi-sensor wearable platform which is built of the key components, listed below: 
+
+* [MAX30101EFD+][max301010_url],  High-Sensitivity Pulse Oximeter and Heart-Rate Sensor for Wearable Health
+* [LSM303AGR][lsm303agr_url],     Ultra-compact high-performance eCompass module
+* [LPS22HB][lps22hb_url],         MEMS nano pressure sensor
+* [LSM6DSM][lsm6dsm_url],         Ultra-low power, high accuracy and stability iNEMO 6DoF inertial measurement unit (IMU)
+* [MP34DT05-A][mp34dt05_url],     MEMS audio sensor omnidirectional stereo digital microphone
+* [BQ25570][bq25570_url],         Ultra Low power Harvester power Management IC with boost charger, and Nanopower Buck Converter
+* [STM32WB55RG][stm32wb55_url],   Ultra-low-power dual core Arm Cortex-M4, Cortex-M0+ with 1 Mbyte of Flash memory, Bluetooth LE 5.2
+* [BC95GJB-02-STD][bc95G_url],    Multi-band NB-IoT Module with Ultra-low Power Consumption
+  
 
 
 ## Core Features
@@ -88,7 +103,8 @@
 5. Button: A gray rectangle on the right side represents a physical button.
 6. Microphone: A small black circle at the bottom represents the microphone.
 
-This is a simplified representation and doesn't show all the internal components like the processor, battery, or eSIM. The actual arrangement of sensors and components would depend on various factors including size constraints, heat management, and optimal positioning for accurate readings.
+This is a simplified representation and doesn't show all the internal components like the processor, battery, or eSIM. 
+
 
 ![smartwatch](smartwatch.svg)
 
@@ -105,7 +121,7 @@ This is a simplified representation and doesn't show all the internal components
 
 The updated design of the Biomonit smartwatch:
 
-1. Wider dial: The dial around the watch is now significantly wider, taking up more of the watch face. This is represented by a thicker circular stroke (60 units wide instead of 30).
+1. Wider dial: The dial around the watch is now significantly wider, taking up more of the watch face. This is represented by a thicker circular stroke 
 
 2. Larger buttons and sensors: To take advantage of the wider dial, the buttons and sensors are now larger (40 pixels in diameter instead of 24), making them more prominent and potentially easier to interact with.
 
@@ -130,7 +146,8 @@ The elements of the watch remain the same as in the previous design:
 
 The small central LCD still displays the time (12:34) and a simple message ("Hello, User!").
 
-This design emphasizes the multi-functional aspect of the watch, giving more space and prominence to the various sensors and interactive elements. The wider dial could allow for more precise touch interactions or potentially incorporate additional sensors or controls in future iterations.
+This design emphasizes the multi-functional aspect of the watch, giving more space and prominence to the various sensors and interactive elements.
+The wider dial could allow for more precise touch interactions or potentially incorporate additional sensors or controls in future iterations.
 
 
 
