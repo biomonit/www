@@ -128,6 +128,8 @@ The updated design of the Biomonit smartwatch:
 
 ![roundwatch](roundwatch.svg)
 
+This design giving more space and prominence to the various sensors and interactive elements.
+The wider dial could allow for more precise touch interactions or potentially incorporate additional sensors or controls in future iterations.
 
 The elements of the watch remain the same as in the previous design:
 
@@ -138,10 +140,7 @@ The elements of the watch remain the same as in the previous design:
 - Radiation sensor (Geiger counter) at the bottom
 - Three buttons (Btn1, Btn2, Btn3) distributed on the left side of the dial
 
-The small central LCD still displays the time (12:34) and a simple message ("Hello, User!").
 
-This design emphasizes the multi-functional aspect of the watch, giving more space and prominence to the various sensors and interactive elements.
-The wider dial could allow for more precise touch interactions or potentially incorporate additional sensors or controls in future iterations.
 
 
 
