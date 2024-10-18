@@ -13,6 +13,9 @@ Biomonit Smartwatc based on H-Watch multi-sensor wearable platform which is buil
 -   [BC95GJB-02-STD](https://www.quectel.com/UploadFile/Product/Quectel_BC95-G_NB-IoT_Specification_V1.2.pdf), Multi-band NB-IoT Module with Ultra-low Power Consumption
 
 
+
+![obraz](https://github.com/user-attachments/assets/f342321d-9f10-4564-ab3a-0343803114ad)
+
 ## Core Features
 - Advanced multi-sensor platform for comprehensive health and environmental monitoring
 - eSIM connectivity for standalone cellular capabilities
