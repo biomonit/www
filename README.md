@@ -6,15 +6,14 @@ Biomonit Smartwatc based on H-Watch multi-sensor wearable platform which is buil
 ### Components
 The H-Watch is a highly integrated multi-sensor wearable platform which is built of the key components, listed below: 
 
-* [MAX30101EFD+][max301010_url],  High-Sensitivity Pulse Oximeter and Heart-Rate Sensor for Wearable Health
-* [LSM303AGR][lsm303agr_url],     Ultra-compact high-performance eCompass module
-* [LPS22HB][lps22hb_url],         MEMS nano pressure sensor
-* [LSM6DSM][lsm6dsm_url],         Ultra-low power, high accuracy and stability iNEMO 6DoF inertial measurement unit (IMU)
-* [MP34DT05-A][mp34dt05_url],     MEMS audio sensor omnidirectional stereo digital microphone
-* [BQ25570][bq25570_url],         Ultra Low power Harvester power Management IC with boost charger, and Nanopower Buck Converter
-* [STM32WB55RG][stm32wb55_url],   Ultra-low-power dual core Arm Cortex-M4, Cortex-M0+ with 1 Mbyte of Flash memory, Bluetooth LE 5.2
-* [BC95GJB-02-STD][bc95G_url],    Multi-band NB-IoT Module with Ultra-low Power Consumption
-  
+-   [MAX30101EFD+](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101.html), High-Sensitivity Pulse Oximeter and Heart-Rate Sensor for Wearable Health
+-   [LSM303AGR](https://www.st.com/en/mems-and-sensors/lsm303agr.html), Ultra-compact high-performance eCompass module
+-   [LPS22HB](https://www.st.com/en/mems-and-sensors/lps22hb.html), MEMS nano pressure sensor
+-   [LSM6DSM](https://www.st.com/en/mems-and-sensors/lsm6dsm.html), Ultra-low power, high accuracy and stability iNEMO 6DoF inertial measurement unit (IMU)
+-   [MP34DT05-A](https://www.st.com/en/mems-and-sensors/mp34dt05-a.html), MEMS audio sensor omnidirectional stereo digital microphone
+-   [BQ25570](https://www.ti.com/product/BQ25570), Ultra Low power Harvester power Management IC with boost charger, and Nanopower Buck Converter
+-   [STM32WB55RG](https://www.st.com/en/microcontrollers-microprocessors/stm32wb55rg.html), Ultra-low-power dual core Arm Cortex-M4, Cortex-M0+ with 1 Mbyte of Flash memory, Bluetooth LE 5.2
+-   [BC95GJB-02-STD](https://www.quectel.com/UploadFile/Product/Quectel_BC95-G_NB-IoT_Specification_V1.2.pdf), Multi-band NB-IoT Module with Ultra-low Power Consumption
 
 
 ## Core Features
